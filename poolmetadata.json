@@ -1,6 +1,7 @@
 {
-  "name": "BRADA_A_pool_verde_e_amarela",
+  "name": "BRADA A pool verde e amarela",
   "ticker": "BRADA",
-  "description": "Brazilian based pool run by Cardano Ambassador, Mr. Gean Brinker",
+  "description": "Stake pool run by Cardano Ambassador, Gean Brinker",
+  "description": "Gean BrinkerのCardano Ambassadorが運営するステークプール",
   "homepage": "https://twitter.com/BradaPool"
 }
